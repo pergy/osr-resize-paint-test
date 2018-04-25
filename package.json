@@ -1,0 +1,8 @@
+{
+  "name": "@pergy/osr-paint-resize-test",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "fs-extra": "^4.0.2"
+  }
+}

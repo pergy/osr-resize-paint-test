@@ -1,0 +1,1 @@
+# osr-resize-paint-test

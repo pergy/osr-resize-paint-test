@@ -1,0 +1,45 @@
+@import url(../components/fonts.css);
+* {
+  user-select: none;
+}
+
+body {
+  background-color: white;
+}
+
+.center {
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  width: 500px;
+  height: 250px;
+  margin: -110px 0 0 -173px;
+}
+
+.center.hasnumber {
+  margin: -240px 0 0 -173px;
+}
+
+.number {
+  margin-top: 0px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: -10px;
+  margin-left: -180px;
+  font-size: 250px;
+  color: black;
+}
+
+.archivemessage {
+  margin-top: 20px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  margin-left: -150px;
+  font-size: 16px;
+  color: black;
+}
